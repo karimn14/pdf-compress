@@ -1,5 +1,7 @@
 # PDF Compressor
 
+"Your own no ads, fast, and straight pdf compressor"
+
 A minimal, self-hosted PDF compression web app running on localhost. Drop a PDF, pick a compression level, download the result — no uploads to third-party servers, no accounts, no internet required after setup.
 
 ---
